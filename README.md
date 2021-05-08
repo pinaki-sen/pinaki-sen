@@ -115,7 +115,7 @@
 
 
 ### GitHub Stats
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.senpinaki222.vercel.app//api?username=senpinaki222&show_icons=true&hide_border=true" />
+<img align="left" alt="pinaki-sen's GitHub Stats" src="https://github-readme-stats.senpinaki222.vercel.app//api?username=pinaki-sen&show_icons=true&hide_border=true" />
 
 
 ### 
