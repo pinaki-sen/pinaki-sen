@@ -119,7 +119,7 @@
 
 
 ### 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senpinaki222&layout=compact" alt="senpinaki222" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki-sen&layout=compact" alt="pinaki-sen" /></p>
 
 
 [website]: https://pinaki-sen.now.sh
