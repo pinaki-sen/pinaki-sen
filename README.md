@@ -5,6 +5,7 @@
 
 ## I'm an Engineering Undergrad, Quantum Computing and Machine Learning Enthusiast!!
 
+- 👨‍💻 Summer Research Intern at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/)
 - 🌱 Learning about **Machine Learning** and **Quantum Computing**
 - 🕺 Currently I'm a Mentee at [Quantum Open Source Foundation](https://qosf.org/qc_mentorship/), working on a Research Project related to **Implementation of Tensor Network on Quantum Machine Learning** under the guidance of [Dr. Amandeep Singh Bhatia](https://curin.chitkara.edu.in/profile/amandeep-singh-bhatia/)
 - 🔭 Interested in **Quantum Hardware**, trying to learn **Quantum Optics** 
@@ -20,9 +21,10 @@
 
 </p>
 
-### 📕 Publications
+### 📕 Publications / Preprint
 
-<!-- PUBLICATION-LIST:START -->
+<!-- PUBLICATION-LIST:START --> 
+- [Variational Quantum Classifiers Through the Lens of the Hessian](https://arxiv.org/abs/2105.10162)
 - [Systematic Cell Placement in Quantum-dot Cellular Automata Embedding Underlying Regular Clocking Circuit](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cds2.12015)
 
 <!-- PUBLICATION-LIST:END -->
@@ -38,7 +40,7 @@
 - Implemented QAOA algorithm to solve MAXCUT problem for Weighted Graphs
 - Analyzed the impact on the result by increasing number of layers in Variational Ansatz
 
-#### 3. Loss landscape analysis of Quantum Neural Network
+#### 3. Loss landscape analysis of Quantum Neural Network [[Preprint](https://arxiv.org/abs/2105.10162)]
 - Studying the character of loss landscape of QNN implemented on various datasets, including the analysis of Barren plateau and saddle point
 - Analyzing effectiveness of gradient based optimization for Quantum Neural Net using Hessian matrix and Eigen vectors.
 
@@ -86,7 +88,7 @@
 ### 🔬 Technical Skills:
 #### ⚛️ Quantum Computing -
 - Quantum Machine Learning, Quantum Chemistry, Quantum Algorithm, Basics of Quantum Hardwares
-- Frameworks - Qiskit, Pennylane
+- Frameworks - Qiskit, Pennylane, Cirq
 
 #### 🤖 Machine Learning -
 - Supervised Learning, Unsupervised Learning, Deep Learing, CNN, GAN
