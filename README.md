@@ -5,7 +5,8 @@
 
 ## I'm an Engineering Undergrad, Quantum Computing and Machine Learning Enthusiast!!
 
-- 👨‍💻 Summer Research Intern at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/)
+- 💻 Focus Area Science Technology Summer Fellow at [Tata Institute of Fundamental Research, Mumbai](https://www.tifr.res.in/)
+- 👨‍💻 Research Intern at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/)
 - 🌱 Learning about **Machine Learning** and **Quantum Computing**
 - 🕺 Currently I'm a Mentee at [Quantum Open Source Foundation](https://qosf.org/qc_mentorship/), working on a Research Project related to **Implementation of Tensor Network on Quantum Machine Learning** under the guidance of [Dr. Amandeep Singh Bhatia](https://curin.chitkara.edu.in/profile/amandeep-singh-bhatia/)
 - 🔭 Interested in **Quantum Hardware**, trying to learn **Quantum Optics** 
@@ -16,7 +17,7 @@
 <h3 align="left">Research Profile:</h3>
 
 <a href="https://scholar.google.com/citations?hl=en&authuser=6&user=-fjsOBYAAAAJ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="google scholar" height="30" width="40" /></a>
-<a href="https://www.researchgate.net/profile/Pinaki_Sen3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg" alt="Pinaki_Sen3" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Pinaki_Sen3" target="blank"><img align="center" src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="Pinaki_Sen3" height="30" width="100" /></a>
 <a href="https://orcid.org/0000-0003-3939-5284" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg" alt="0000-0003-3939-5284" height="30" width="40" /></a>
 
 </p>
@@ -28,6 +29,7 @@
 - [Systematic Cell Placement in Quantum-dot Cellular Automata Embedding Underlying Regular Clocking Circuit](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cds2.12015)
 
 <!-- PUBLICATION-LIST:END -->
+
 
 ---
 
@@ -58,7 +60,7 @@
 <p align="left">
 <h3 align="left">Blog Profile:</h3>
 
-<a href="https://medium.com/@senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@senpinaki222" height="30" width="40" /></a>
+<a href="https://medium.com/@senpinaki222" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@senpinaki222" height="30" width="100" /></a>
 
 </p>
 
@@ -77,10 +79,12 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<a href="mailto: pinakisen.eenita@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="pinakisen.eenita@gmail.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pinaki-sen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pinaki-sen/" height="30" width="40" /></a>
-<a href="https://twitter.com/pinaki_sen_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pinaki_sen_" height="30" width="40" /></a>
-<a href="https://www.instagram.com/indianqubit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pinaki_sen_" height="30" width="40" /></a>
+<a href="mailto: pinakisen.eenita@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="pinakisen.eenita@gmail.com" height="30" width="100" /></a>
+<a href="mailto: pinakisen@protonmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="pinakisen.eenita@gmail.com" height="30" width="120" /></a>
+<a href="https://linkedin.com/in/pinaki-sen/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pinaki-sen/" height="30" width="100" /></a>
+<a href="https://github.com/pinaki-sen/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="pinaki-sen/" height="30" width="100" /></a>
+<a href="https://twitter.com/pinaki_sen_" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="pinaki_sen_" height="30" width="100" /></a>
+<a href="https://www.instagram.com/indianqubit/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="pinaki_sen_" height="30" width="100" /></a>
 
 </p>
 
@@ -105,9 +109,9 @@
 <p align="left">
 <h3 align="left">Coding Profiles:</h3> 
 
-<a href="https://kaggle.com/senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="senpinaki222" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="senpinaki222" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@senpinaki222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@senpinaki222" height="30" width="40" /></a>
+<a href="https://kaggle.com/senpinaki222" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="senpinaki222" height="30" width="100" /></a>
+<a href="https://www.hackerrank.com/senpinaki222" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="senpinaki222" height="30" width="100" /></a>
+<a href="https://www.hackerearth.com/@senpinaki222" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="@senpinaki222" height="30" width="100" /></a>
 
 </p>
 
