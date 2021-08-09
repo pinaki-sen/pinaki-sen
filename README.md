@@ -5,7 +5,6 @@
 
 ## I'm an Engineering Undergrad, Quantum Computing and Machine Learning Enthusiast!!
 
-- 💻 Focus Area Science Technology Summer Fellow at [Tata Institute of Fundamental Research, Mumbai](https://www.tifr.res.in/)
 - 👨‍💻 Research Intern at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/)
 - 🌱 Learning about **Machine Learning** and **Quantum Computing**
 - 🕺 Currently I'm a Mentee at [Quantum Open Source Foundation](https://qosf.org/qc_mentorship/), working on a Research Project related to **Implementation of Tensor Network on Quantum Machine Learning** under the guidance of [Dr. Amandeep Singh Bhatia](https://curin.chitkara.edu.in/profile/amandeep-singh-bhatia/)
