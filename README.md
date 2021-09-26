@@ -74,6 +74,17 @@
 ➡️ [more blog posts...](https://senpinaki222.medium.com/)
 
 ---
+
+
+### 🎞️ Videos
+
+<!-- VIDEO-LIST:START -->
+- [Hierarchical Extreme Quantum Machine Learning with Tensor and Neural Networks, NISQ Era - Pinaki Sen](https://www.youtube.com/watch?v=tJyAaSw3wWc) {Channel - [Full-Stack Quantum Computation](https://www.youtube.com/channel/UCsT2UvPgc3dLwGQ4ec6XDDA)}
+- [HackerEarth | Qiskit India Challenge Experience by Pinaki & Shubham](https://www.youtube.com/watch?v=lR9RITewTKU&t=291s) {Channel - [QuantumComputing India](https://www.youtube.com/channel/UC8ERgELZAqTFR5-aF7fLpBA)}
+<!-- VIDEO-LIST:END -->
+
+
+---
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
@@ -83,7 +94,7 @@
 <a href="https://linkedin.com/in/pinaki-sen/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pinaki-sen/" height="30" width="100" /></a>
 <a href="https://github.com/pinaki-sen/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="pinaki-sen/" height="30" width="100" /></a>
 <a href="https://twitter.com/pinaki_sen_" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="pinaki_sen_" height="30" width="100" /></a>
-<a href="https://www.instagram.com/indianqubit/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="pinaki_sen_" height="30" width="100" /></a>
+<a href="https://www.instagram.com/pinaki_sen_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="pinaki_sen_" height="30" width="100" /></a>
 
 </p>
 
