@@ -24,8 +24,11 @@
 ### 📕 Publications / Preprint
 
 <!-- PUBLICATION-LIST:START --> 
-- [Variational Quantum Classifiers Through the Lens of the Hessian](https://arxiv.org/abs/2105.10162)
-- [Systematic Cell Placement in Quantum-dot Cellular Automata Embedding Underlying Regular Clocking Circuit](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cds2.12015)
+- [Variational Quantum Classifiers Through the Lens of the Hessian](https://arxiv.org/abs/2105.10162) 
+- [Efficient Decoding of Surface Code Syndromes for Error Correction in Quantum Computing](https://arxiv.org/abs/2110.10896) 
+- [Towards the Realization of Regular Clocking Based QCA Circuits Using Genetic Algorithm](https://authors.elsevier.com/c/1eKnsAQLrilTa) 
+- [Regular Clocking-based Automated Cell Placement Technique in QCA Targeting Sequential Circuit]() 
+- [Systematic Cell Placement in Quantum-dot Cellular Automata Embedding Underlying Regular Clocking Circuit](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cds2.12015) 
 
 <!-- PUBLICATION-LIST:END -->
 
