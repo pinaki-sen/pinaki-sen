@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=pinaki-sen.now.sh&style=for-the-badge&url=https%3A%2F%2Fpinaki-sen.now.sh)](https://pinaki-sen.now.sh)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pinaki_sen_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpinaki_sen_&screen_name=pinaki_sen_)
 
-## I'm an Engineering Undergrad, Quantum Computing and Machine Learning Enthusiast!!
+## I'm an Engineering Undergrad...an Embedded System, Machine Learning and Quantum Computing Enthusiast!!
 
 - 💽 Firmware Engineer Intern at [Western Digital](https://www.westerndigital.com/)
 - 👨‍💻 Former research Intern at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/)
