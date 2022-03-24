@@ -5,10 +5,10 @@
 
 ## I'm an Engineering Undergrad, Quantum Computing and Machine Learning Enthusiast!!
 
-- 👨‍💻 Research Intern at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/)
+- 💽 Firmware Engineer Intern at [Western Digital](https://www.westerndigital.com/)
+- 👨‍💻 Former research Intern at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/)
 - 🌱 Learning about **Machine Learning** and **Quantum Computing**
-- 🕺 Currently I'm a Mentee at [Quantum Open Source Foundation](https://qosf.org/qc_mentorship/), working on a Research Project related to **Implementation of Tensor Network on Quantum Machine Learning** under the guidance of [Dr. Amandeep Singh Bhatia](https://curin.chitkara.edu.in/profile/amandeep-singh-bhatia/)
-- 🔭 Interested in **Quantum Hardware**, trying to learn **Quantum Optics** 
+- 🕺 Former mentee at [Quantum Open Source Foundation](https://qosf.org/qc_mentorship/), worked on Research Project related to **Implementation of Tensor Network on Quantum Machine Learning** under the guidance of [Dr. Amandeep Singh Bhatia](https://curin.chitkara.edu.in/profile/amandeep-singh-bhatia/)
 
 ---
 
